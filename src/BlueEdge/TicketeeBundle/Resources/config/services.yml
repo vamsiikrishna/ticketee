@@ -1,0 +1,7 @@
+parameters:
+#    blue_edge_ticketee.example.class: BlueEdge\TicketeeBundle\Example
+
+services:
+#    blue_edge_ticketee.example:
+#        class: %blue_edge_ticketee.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
